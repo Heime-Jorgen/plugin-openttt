@@ -30,6 +30,11 @@
   },
   "agentConfig": {
     "pluginType": "elizaos:plugin:1.0.0",
-    "pluginParameters": {}
+    "pluginParameters": {
+      "TTT_API_URL": {
+        "type": "string",
+        "description": "OpenTTT API endpoint URL"
+      }
+    }
   }
 }
